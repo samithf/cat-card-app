@@ -1,0 +1,17 @@
+{
+  "name": "cat-card",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js --greeting=Hi --who=Samith --width=500"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mapbox/blend": "^2.0.1",
+    "minimist": "^1.2.5",
+    "request": "^2.88.2"
+  }
+}
